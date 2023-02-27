@@ -50,10 +50,10 @@
 </div>
 
 ---
-[![ProAprendiz](https://streak-stats.demolab.com?user=Fermanuel&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Fermanuel](https://streak-stats.demolab.com?user=Fermanuel&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
-![ProAprendiz](https://github-readme-stats.vercel.app/api?username=Fermanuel&show_icons=true&theme=radical)
+![Fermanuel](https://github-readme-stats.vercel.app/api?username=Fermanuel&show_icons=true&theme=radical)
 
 ---
-[![ProAprendiz](https://github-readme-stats.vercel.app/api/top-langs/?username=Fermanuel&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Fermanuel](https://github-readme-stats.vercel.app/api/top-langs/?username=Fermanuel&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
