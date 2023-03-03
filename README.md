@@ -1,5 +1,5 @@
 <div class="Encabezado" align="center">
-    <img src="https://media3.giphy.com/media/I3rbjijgss7D2Oab2A/giphy.gif?cid=ecf05e475ek0opyv5rz8gkzp4kzys5c7qmgsx6j5wia3ped5&rid=giphy.gif&ct=s" width="200px">
+    <img src="https://media4.giphy.com/media/RRbX37q3MMVjYCFGiu/giphy.gif?cid=ecf05e47q4b7o52ubo1jfr0fbl43dm4xfs232ml27ry0fr4b&rid=giphy.gif&ct=ts" width="200px">
     <h1>Hi 👋, I'm Fernando</h1>
     <h3>Welcome to my GitHub profile! Here you'll find my projects and resources for developers. If you're interested in collaborating on a project, feel free to contact me. Thanks for visiting my profile!</h3>
         <a href="">
