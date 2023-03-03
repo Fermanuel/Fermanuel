@@ -1,7 +1,7 @@
 <div class="Encabezado" align="center">
     <img src="https://media3.giphy.com/media/I3rbjijgss7D2Oab2A/giphy.gif?cid=ecf05e475ek0opyv5rz8gkzp4kzys5c7qmgsx6j5wia3ped5&rid=giphy.gif&ct=s" width="200px">
     <h1>Hi 👋, I'm Fernando</h1>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=proaprendiz&label=Profile%20views&color=009dff&style=flat-square" alt="proaprendiz" /> </p>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fermanuel&label=Profile%20views&color=009dff&style=flat-square" alt="proaprendiz" /> </p>
     <h3>I am a technology enthusiast and a Computer Systems Engineering student looking for my first job in the technology field. I am always up to date with the latest trends and love to explore new digital tools and applications. I am an engaged and curious person who is passionate about technology and believes in its potential.</h3>
     <a href="https://twitter.com/StyleWars1">
             <img src="https://img.shields.io/twitter/follow/@StyleWars1?color=blue&label=Fernando%20Espinosa&logo=twitter&style=for-the-badge">
