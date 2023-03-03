@@ -1,7 +1,7 @@
 <div class="Encabezado" align="center">
     <img src="https://media3.giphy.com/media/I3rbjijgss7D2Oab2A/giphy.gif?cid=ecf05e475ek0opyv5rz8gkzp4kzys5c7qmgsx6j5wia3ped5&rid=giphy.gif&ct=s" width="200px">
     <h1>Hi 👋, I'm Fernando</h1>
-    <h3>I am a technology enthusiast and a Computer Systems Engineering student looking for my first job in the technology field. I am always up to date with the latest trends and love to explore new digital tools and applications. I am an engaged and curious person who is passionate about technology and believes in its potential.</h3>
+    <h3>Welcome to my GitHub profile! Here you'll find my projects and resources for developers. If you're interested in collaborating on a project, feel free to contact me. Thanks for visiting my profile!</h3>
     <a href="https://twitter.com/StyleWars1">
             <img src="https://img.shields.io/twitter/follow/@StyleWars1?color=blue&label=Fernando%20Espinosa&logo=twitter&style=for-the-badge">
         </a>
@@ -17,10 +17,9 @@
 ### 🖖 About Me
 
 - I like programming  👨‍💻.
-- my awareness is more based on C#.
-- I am currently learning MVC with C#.
-- You may contact me by mail manuelhola9@gmail.com
-- I like cats 🐱
+- I'm focusing on C# and learning MVC.
+- If you need help with your studies or have any questions, feel free to contact me via email at manuelhola9@gmail.com.
+- I'm committed to continuously learning and improving my programming skills to create robust and scalable web applications.
 
 ---
 
