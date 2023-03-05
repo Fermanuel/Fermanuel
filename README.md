@@ -2,9 +2,6 @@
     <img src="https://media2.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif?cid=ecf05e47g63a7yo105j89c64jks6jcu8liqidkc0degvxvgo&rid=giphy.gif&ct=s" width="200px">
     <h1>Hi 👋, I'm Fernando</h1>
     <h3>Welcome to my GitHub profile! Here you'll find my projects and resources for developers. If you're interested in collaborating on a project, feel free to contact me. Thanks for visiting my profile!</h3>
-        <a href="https://github.com/Fermanuel">
-            <img src="https://img.shields.io/github/watchers/Fermanuel/Fermanuel?color=%2376D7C4%20&label=visitors&logo=github&style=for-the-badge" alt="visitors">
-        </a>
         <a href="https://twitter.com/StyleWars1">
             <img src="https://img.shields.io/twitter/follow/@StyleWars1?color=blue&label=Fernando%20Espinosa&logo=twitter&style=for-the-badge">
         </a>
