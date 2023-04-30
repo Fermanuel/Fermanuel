@@ -1,7 +1,7 @@
 <div class="Encabezado" align="center">
     <img src="https://media2.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif?cid=ecf05e47g63a7yo105j89c64jks6jcu8liqidkc0degvxvgo&rid=giphy.gif&ct=s" width="200px">
-    <h1>Hi :D, I'm Fernando</h1>
-    <h3>Welcome to my GitHub profile! Here you'll find my projects and resources for developers. If you're interested in collaborating on a project, feel free to contact me. Thanks for visiting my profile!</h3>
+    <h1>Hola!, Soy Fernando</h1>
+    <h3>¡Bienvenido a mi perfil de GitHub! Aquí encontrarás mis proyectos en los cuales estoy trabajando. Si estás interesado en colaborar en un proyecto, no dudes en contactarme. ¡Gracias por visitar mi perfil!</h3>
         <a href="https://twitter.com/StyleWars1">
             <img src="https://img.shields.io/twitter/follow/@StyleWars1?color=blue&label=Fernando%20Espinosa&logo=twitter&style=for-the-badge">
         </a>
@@ -14,17 +14,17 @@
 </div>
 
 ---
-### 🖖 About Me
+### 🖖 Sobre mi
 
-- I like programming  👨‍💻.
-- I'm focusing on C# and learning MVC.
-- If you need help with your studies or have any questions, feel free to contact me via email at manuelhola9@gmail.com.
-- I'm committed to continuously learning and improving my programming skills to create robust and scalable web applications.
+-✅Me gusta programar 👨‍💻.
+-✅Me estoy enfocando en C# y aprendiendo MVC.
+-✅Si necesitas ayuda con tus estudios o tienes alguna pregunta, no dudes en contactarme a través del correo electrónico manuelhola9@gmail.com.
+-✅Estoy comprometido a seguir aprendiendo y mejorando mis habilidades de programación para crear aplicaciones web robustas y escalables.
 
 ---
 
 <div class="lengujes">
-    <h3 align="left">Languages and Tools:</h3>
+    <h3 align="left">Mis Lengujes:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
