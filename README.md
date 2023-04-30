@@ -14,14 +14,6 @@
 </div>
 
 ---
-### 🖖 Sobre mi
-
--✅Me gusta programar 👨‍💻.
--✅Me estoy enfocando en C# y aprendiendo MVC.
--✅Si necesitas ayuda con tus estudios o tienes alguna pregunta, no dudes en contactarme a través del correo electrónico manuelhola9@gmail.com.
--✅Estoy comprometido a seguir aprendiendo y mejorando mis habilidades de programación para crear aplicaciones web robustas y escalables.
-
----
 
 <div class="lengujes">
     <h3 align="left">Mis Lengujes:</h3>
