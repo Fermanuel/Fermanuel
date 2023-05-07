@@ -1,7 +1,8 @@
+[![](https://visitcount.itsvg.in/api?id=Fermanuel&icon=6&color=1)](https://visitcount.itsvg.in)
 <div class="Encabezado" align="center">
     <img src="https://media2.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif?cid=ecf05e47g63a7yo105j89c64jks6jcu8liqidkc0degvxvgo&rid=giphy.gif&ct=s" width="200px">
-    <h1>Hola!, Soy Fernando</h1>
-    <h3>¡Bienvenido a mi perfil de GitHub! Aquí encontrarás mis proyectos en los cuales estoy trabajando. Si estás interesado en colaborar en un proyecto, no dudes en contactarme. ¡Gracias por visitar mi perfil!</h3>
+    <h1>Hi!, I am Fernando</h1>
+    <h3>Welcome to my GitHub profile! Here you will find my projects on which I am working. If you are interested in collaborating on a project, do not hesitate to contact me. Thank you for visiting my profile!</h3>
         <a href="https://twitter.com/StyleWars1">
             <img src="https://img.shields.io/twitter/follow/@StyleWars1?color=blue&label=Fernando%20Espinosa&logo=twitter&style=for-the-badge">
         </a>
@@ -15,8 +16,8 @@
 
 ---
 
-<div class="lengujes">
-    <h3 align="left">Mis Lengujes:</h3>
+<div class="Stack">
+    <h3 align="left">My Satck:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
@@ -40,10 +41,14 @@
 </div>
 
 ---
-[![Fermanuel](https://streak-stats.demolab.com?user=Fermanuel&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+![](https://github-readme-stats.vercel.app/api?username=Fermanuel&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ---
-![Fermanuel](https://github-readme-stats.vercel.app/api?username=Fermanuel&show_icons=true&theme=radical)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=Fermanuel&theme=ayu-mirage&hide_border=false)<br/>
 ---
-[![Fermanuel](https://github-readme-stats.vercel.app/api/top-langs/?username=Fermanuel&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fermanuel&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+---
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Fermanuel&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
