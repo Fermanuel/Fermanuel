@@ -2,7 +2,7 @@
 <div class="Encabezado" align="center">
     <img src="https://media2.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif?cid=ecf05e47g63a7yo105j89c64jks6jcu8liqidkc0degvxvgo&rid=giphy.gif&ct=s" width="200px">
     <h1>Hi!, I am Fernando</h1>
-    <h3>Welcome to my GitHub profile! Here you will find my projects on which I am working. If you are interested in collaborating on a project, do not hesitate to contact me. Thank you for visiting my profile!</h3>
+    <h3>I am Fernando, a highly responsible and committed professional in my work and commitments to the company I work for. I stand out for my dedication and work ethic, always striving to meet and exceed established expectations. My proactive attitude allows me to handle tasks efficiently and accurately, meeting deadlines effectively. Furthermore, I am willing to collaborate with my teammates whenever necessary. My commitment to the company is reflected in my dedication to achieving corporate goals and ensuring my actions align with the organization's values and vision. I am open to learning and growing professionally, constantly seeking opportunities to enhance my skills and knowledge. You can reach me at my email address: manuelhola9@gmail.com.</h3>
         <a href="https://twitter.com/StyleWars1">
             <img src="https://img.shields.io/twitter/follow/@StyleWars1?color=blue&label=Fernando%20Espinosa&logo=twitter&style=for-the-badge">
         </a>
