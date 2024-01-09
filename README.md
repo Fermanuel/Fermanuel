@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&weight=700&size=30&pause=500&color=219CFF&background=FFFFFF00&center=true&random=false&width=500&lines=Fernando+Espinosa;Computer+Systems+Engineer+Student;Full+Satck+Jr+Developer+" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=35&pause=1000&color=1168F7&random=false&width=500&lines=Fernando+Espinosa;Computer+Systems+Engineer;Full-Stack+Jr+Developer" alt="Typing SVG" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
