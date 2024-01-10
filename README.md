@@ -32,7 +32,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,flutter,git,html,css,c,cpp,cs,bootstrap,dotnet,electron,express,figma,github,jquery,latex,linux,md,materialui,mysql,nodejs,postgres,postman,powershell,prisma,py,sass,supabase,sequelize,vite,wordpress,raspberrypi&perline=13)](https://skillicons.dev)
 
-Estas son algunas de las tecnologías que conozco y he practicodo en algunos proyectos, ya sean propios o de algún cliente. En ellos he creado o modificado código según las necesidades y los objetivos de cada caso los cuales me han sido util para mejorar con la practica.
+Estas son algunas de las tecnologías que conozco y he utilizado en varios proyectos, ya sean personales, para clientes o tareas escolares. En estos proyectos, he creado o modificado código según las necesidades y los objetivos de cada caso. Estas experiencias me han sido útiles para mejorar con la práctica, ya que creo que la mejora continua es importante, especialmente en el área de la tecnología.
 
 <br>
 
