@@ -22,7 +22,7 @@
 - 🤔 Explorando nuevas tecnologías y desarrollando soluciones de software.
 - 📚 Estudiando ingenieria en sistemas computacionales en TecNM.
 - 💼 Trabajando como Full Stack Developer de forma Freelance.
-- 👔 Actualmente estoy abierto a propuestas de empleo ya que siento que es momento de un cambio **[Linkedin](www.linkedin.com/in/f-espinosa)**
+- 👔 Actualmente estoy abierto a propuestas de empleo ya que siento que es momento de un cambio **[Linkedin](https://www.linkedin.com/in/f-espinosa/)**
 - 🌱 Aprendiendo más sobre docker & VueJS.
 - 📧 mi correo electronico es **manuelhola9@gmail.com**
 
