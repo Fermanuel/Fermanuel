@@ -12,19 +12,19 @@
 ![](https://komarev.com/ghpvc/?username=Fermanuel&color=006bed)
 
 <p align="left">
-    👋 Bienvenido a mi GitHub! donde podrás ver algunos de los proyectos y fragmentos de código que he realizado o estudiado. Soy un desarrollador Full-Stack que disfruta del código y el diseño, y que siempre está buscando aprender cosas nuevas y mejorar sus habilidades. Me interesa el desarrollo web, las aplicaciones móviles, la inteligencia artificial y el blockchain aunque en estos dos ultimos solo leo blogs o algun articulo de mi interes.
+    👋 Welcome to my GitHub! where you can see some of the projects and code fragments that I have made or studied. I'm a Full-Stack developer who enjoys coding and design, and is always looking to learn new things and improve their skills. I am interested in web development, mobile applications, artificial intelligence and blockchain, although in the latter two I only read blogs or some articles of interest to me.
 </p>
 
 <br><br><br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- 🤔 Explorando nuevas tecnologías y desarrollando soluciones de software.
-- 📚 Estudiando ingenieria en sistemas computacionales en TecNM.
-- 💼 Trabajando como Full Stack Developer de forma Freelance.
-- 👔 Actualmente estoy abierto a propuestas de empleo ya que siento que es momento de un cambio **[Linkedin](https://www.linkedin.com/in/f-espinosa/)**
-- 🌱 Aprendiendo más sobre docker & VueJS.
-- 📧 mi correo electronico es **manuelhola9@gmail.com**
+- 🤔 Exploring new technologies and developing software solutions.
+- 📚 Studying computer systems engineering at TecNM.
+- 💼 Working as a Freelance Full Stack Developer.
+- 👔 I am currently open to job proposals since I feel it is time for a change **[Linkedin](https://www.linkedin.com/in/f-espinosa/)**
+- 🌱 Learning more about docker & VueJS.
+- 📧 my email is **manuelhola9@gmail.com**
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -32,7 +32,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,flutter,git,html,css,c,cpp,cs,bootstrap,dotnet,electron,express,figma,github,jquery,latex,linux,md,materialui,mysql,nodejs,postgres,postman,powershell,prisma,py,sass,supabase,sequelize,vite,wordpress,raspberrypi&perline=13)](https://skillicons.dev)
 
-Estas son algunas de las tecnologías que conozco y he utilizado en varios proyectos, ya sean personales, para clientes o tareas escolares. En estos proyectos, he creado o modificado código según las necesidades y los objetivos de cada caso. Estas experiencias me han sido útiles para mejorar con la práctica, ya que creo que la mejora continua es importante, especialmente en el área de la tecnología.
+These are some of the technologies that I know and have used in various projects, whether personal, for clients or school assignments. In these projects, I have created or modified code according to the needs and objectives of each case. These experiences have been useful for me to improve with practice, since I believe that continuous improvement is important, especially in the area of technology.
 
 <br>
 
