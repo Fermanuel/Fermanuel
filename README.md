@@ -9,7 +9,12 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computadora" min-width="400px" max-width="400px" width="400px" align="right">
 
-![](https://komarev.com/ghpvc/?username=Fermanuel&color=006bed)
+<!-- Badges / Medallas -->
+<p align="rigth">
+  <img src="https://komarev.com/ghpvc/?username=Fermanuel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Fermanuel?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Fermanuel?affiliations=OWNER&style=flat&color=0e75b6" alt="GitHub stars" />
+</p>
 
 <p align="left">
   Hi there! 👋 Welcome to my GitHub. Here you’ll find my latest projects and code snippets. I’m a software engineer with a passion for design and development, constantly exploring new technologies. I specialize in web and mobile applications and closely follow advancements in AI and blockchain.
@@ -51,17 +56,19 @@ These are some of the technologies I know and have applied in a variety of conte
 
 <br><br>
 
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fermanuel&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fermanuel&theme=github-dark&hide_border=true" width="48%" />
+</p>
 
-<table>
-  <tr>
-    <td align="center">
-      <img alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300px"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Fermanuel&show_icons=true&theme=dark" alt="Fermanuel" /> 
-    </td>
-  </tr>
-</table>
+
+<!-- Animated GIF footer -->
+<div align="center">
+  <h3>Thanks for stopping by 👋</h3>
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300px" alt="Coding gif" />
+</div>
+
 
 <br><br><br>
 
